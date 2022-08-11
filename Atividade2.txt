@@ -1,0 +1,7 @@
+
+
+git clone https://github.com/OliviaAsai/Gerencia-de-Configuracao-e-Controle-de-Versao
+git init
+git add .
+git commit -m "oi"
+git push
